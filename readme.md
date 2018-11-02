@@ -53,9 +53,9 @@
 	<tr>
 		<td><a href="#"><a/></td>
 		<td><a href="#"><a/></td>
-		<td><a href="https://github.com/wangyycode/wangyycode.github.io/blob/master/蜗牛.md">Yes<a/></td>
-		<td><a href="https://github.com/wangyycode/wangyycode.github.io/blob/master/不能说的秘密.md">Yes<a/></td>
-		<td><a href="https://github.com/wangyycode/wangyycode.github.io/blob/master/明明就.md">Yes<a/></td>
+		<td><a href="https://github.com/wangyycode/lyrics/blob/master/蜗牛.md">Yes<a/></td>
+		<td><a href="https://github.com/wangyycode/lyrics/blob/master/不能说的秘密.md">Yes<a/></td>
+		<td><a href="https://github.com/wangyycode/lyrics/blob/master/明明就.md">Yes<a/></td>
 	<tr>
 
 </table>
